@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/emmagoransson1994/vader.git/static/css/main.ee3d5d84.chunk.css",
-    "main.js": "/emmagoransson1994/vader.git/static/js/main.133edc4f.chunk.js",
-    "main.js.map": "/emmagoransson1994/vader.git/static/js/main.133edc4f.chunk.js.map",
-    "runtime-main.js": "/emmagoransson1994/vader.git/static/js/runtime-main.f920eaf0.js",
-    "runtime-main.js.map": "/emmagoransson1994/vader.git/static/js/runtime-main.f920eaf0.js.map",
-    "static/css/2.fd695920.chunk.css": "/emmagoransson1994/vader.git/static/css/2.fd695920.chunk.css",
-    "static/js/2.07a31787.chunk.js": "/emmagoransson1994/vader.git/static/js/2.07a31787.chunk.js",
-    "static/js/2.07a31787.chunk.js.map": "/emmagoransson1994/vader.git/static/js/2.07a31787.chunk.js.map",
-    "index.html": "/emmagoransson1994/vader.git/index.html",
-    "precache-manifest.4f23abf42d8160219d4d99fbef258c62.js": "/emmagoransson1994/vader.git/precache-manifest.4f23abf42d8160219d4d99fbef258c62.js",
-    "service-worker.js": "/emmagoransson1994/vader.git/service-worker.js",
-    "static/css/2.fd695920.chunk.css.map": "/emmagoransson1994/vader.git/static/css/2.fd695920.chunk.css.map",
-    "static/css/main.ee3d5d84.chunk.css.map": "/emmagoransson1994/vader.git/static/css/main.ee3d5d84.chunk.css.map",
-    "static/js/2.07a31787.chunk.js.LICENSE": "/emmagoransson1994/vader.git/static/js/2.07a31787.chunk.js.LICENSE",
-    "static/media/bootstrap.min.css": "/emmagoransson1994/vader.git/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "main.css": "/emmagoransson1994/app.git/static/css/main.ee3d5d84.chunk.css",
+    "main.js": "/emmagoransson1994/app.git/static/js/main.6d42662a.chunk.js",
+    "main.js.map": "/emmagoransson1994/app.git/static/js/main.6d42662a.chunk.js.map",
+    "runtime-main.js": "/emmagoransson1994/app.git/static/js/runtime-main.78013f84.js",
+    "runtime-main.js.map": "/emmagoransson1994/app.git/static/js/runtime-main.78013f84.js.map",
+    "static/css/2.8f18d4d4.chunk.css": "/emmagoransson1994/app.git/static/css/2.8f18d4d4.chunk.css",
+    "static/js/2.07a31787.chunk.js": "/emmagoransson1994/app.git/static/js/2.07a31787.chunk.js",
+    "static/js/2.07a31787.chunk.js.map": "/emmagoransson1994/app.git/static/js/2.07a31787.chunk.js.map",
+    "index.html": "/emmagoransson1994/app.git/index.html",
+    "precache-manifest.215b4c1289bec540a92ab34f8b0318ae.js": "/emmagoransson1994/app.git/precache-manifest.215b4c1289bec540a92ab34f8b0318ae.js",
+    "service-worker.js": "/emmagoransson1994/app.git/service-worker.js",
+    "static/css/2.8f18d4d4.chunk.css.map": "/emmagoransson1994/app.git/static/css/2.8f18d4d4.chunk.css.map",
+    "static/css/main.ee3d5d84.chunk.css.map": "/emmagoransson1994/app.git/static/css/main.ee3d5d84.chunk.css.map",
+    "static/js/2.07a31787.chunk.js.LICENSE": "/emmagoransson1994/app.git/static/js/2.07a31787.chunk.js.LICENSE",
+    "static/media/bootstrap.min.css": "/emmagoransson1994/app.git/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.f920eaf0.js",
-    "static/css/2.fd695920.chunk.css",
+    "static/js/runtime-main.78013f84.js",
+    "static/css/2.8f18d4d4.chunk.css",
     "static/js/2.07a31787.chunk.js",
     "static/css/main.ee3d5d84.chunk.css",
-    "static/js/main.133edc4f.chunk.js"
+    "static/js/main.6d42662a.chunk.js"
   ]
 }
