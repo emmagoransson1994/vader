@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/EmmaGoransson94/app.github.io.git/static/css/main.ee3d5d84.chunk.css",
-    "main.js": "/EmmaGoransson94/app.github.io.git/static/js/main.a956269f.chunk.js",
-    "main.js.map": "/EmmaGoransson94/app.github.io.git/static/js/main.a956269f.chunk.js.map",
-    "runtime-main.js": "/EmmaGoransson94/app.github.io.git/static/js/runtime-main.ec3bcf4e.js",
-    "runtime-main.js.map": "/EmmaGoransson94/app.github.io.git/static/js/runtime-main.ec3bcf4e.js.map",
-    "static/css/2.f48c81b9.chunk.css": "/EmmaGoransson94/app.github.io.git/static/css/2.f48c81b9.chunk.css",
-    "static/js/2.07a31787.chunk.js": "/EmmaGoransson94/app.github.io.git/static/js/2.07a31787.chunk.js",
-    "static/js/2.07a31787.chunk.js.map": "/EmmaGoransson94/app.github.io.git/static/js/2.07a31787.chunk.js.map",
-    "index.html": "/EmmaGoransson94/app.github.io.git/index.html",
-    "precache-manifest.0f4b12350253d5a42762c346fa3d1bf1.js": "/EmmaGoransson94/app.github.io.git/precache-manifest.0f4b12350253d5a42762c346fa3d1bf1.js",
-    "service-worker.js": "/EmmaGoransson94/app.github.io.git/service-worker.js",
-    "static/css/2.f48c81b9.chunk.css.map": "/EmmaGoransson94/app.github.io.git/static/css/2.f48c81b9.chunk.css.map",
-    "static/css/main.ee3d5d84.chunk.css.map": "/EmmaGoransson94/app.github.io.git/static/css/main.ee3d5d84.chunk.css.map",
-    "static/js/2.07a31787.chunk.js.LICENSE": "/EmmaGoransson94/app.github.io.git/static/js/2.07a31787.chunk.js.LICENSE",
-    "static/media/bootstrap.min.css": "/EmmaGoransson94/app.github.io.git/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "main.css": "/smhi/static/css/main.ee3d5d84.chunk.css",
+    "main.js": "/smhi/static/js/main.9906575f.chunk.js",
+    "main.js.map": "/smhi/static/js/main.9906575f.chunk.js.map",
+    "runtime-main.js": "/smhi/static/js/runtime-main.6ed3f7e9.js",
+    "runtime-main.js.map": "/smhi/static/js/runtime-main.6ed3f7e9.js.map",
+    "static/css/2.f7862573.chunk.css": "/smhi/static/css/2.f7862573.chunk.css",
+    "static/js/2.07a31787.chunk.js": "/smhi/static/js/2.07a31787.chunk.js",
+    "static/js/2.07a31787.chunk.js.map": "/smhi/static/js/2.07a31787.chunk.js.map",
+    "index.html": "/smhi/index.html",
+    "precache-manifest.fd17d586f08c8221ecf8f85319b90a60.js": "/smhi/precache-manifest.fd17d586f08c8221ecf8f85319b90a60.js",
+    "service-worker.js": "/smhi/service-worker.js",
+    "static/css/2.f7862573.chunk.css.map": "/smhi/static/css/2.f7862573.chunk.css.map",
+    "static/css/main.ee3d5d84.chunk.css.map": "/smhi/static/css/main.ee3d5d84.chunk.css.map",
+    "static/js/2.07a31787.chunk.js.LICENSE": "/smhi/static/js/2.07a31787.chunk.js.LICENSE",
+    "static/media/bootstrap.min.css": "/smhi/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec3bcf4e.js",
-    "static/css/2.f48c81b9.chunk.css",
+    "static/js/runtime-main.6ed3f7e9.js",
+    "static/css/2.f7862573.chunk.css",
     "static/js/2.07a31787.chunk.js",
     "static/css/main.ee3d5d84.chunk.css",
-    "static/js/main.a956269f.chunk.js"
+    "static/js/main.9906575f.chunk.js"
   ]
 }
